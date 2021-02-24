@@ -1,0 +1,7 @@
+body {
+     font-family: Comic Sans MS;
+}
+
+tr:nth-child(even) {
+     background-color: #ddd;
+}
